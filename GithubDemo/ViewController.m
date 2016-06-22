@@ -9,7 +9,9 @@
 #import "ViewController.h"
 
 @interface ViewController ()
-
+{
+    int a;
+}
 @end
 
 @implementation ViewController
